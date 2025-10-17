@@ -3,17 +3,25 @@
 JaminCollins has archived his repo, I have the cartographer as well as use the k2-improvements script on my K2 Plus.
 I'll be updating this repo with any bug reports that i can reproduce and hopefully keep this project going into newer firmware versions released by Creality.
 
-My webcam environment is different with my addition of a nozzle-camera, so i cannot debug webcam issues, but send a report and hopefully we can solve it.
-
-Below is his prior Readme.md file, please read the documentation.
+In the `features` folder you will find install scripts for each of the features being installed, if desired to run separately.
 If you're curious what each of these scripts do, i encourage all to open the install.sh files and dive into the code.
 You'd be surprised what you'll learn. 
 
-## Latest Added Features:
-### Webcam-Fix 
+# Latest Added Features:
+## Webcam-Fix 17-10-25
 The stock chamber camera is set to 15fps. `v4l2-ctl --list-formats-ext -d /dev/v4l/by-id/main-video0` reports 30fps as available. Lets get that framerate.
 
+
+
+
+
+
+
 Donations are definitely _not required_, however they are always appreciated.  If you'd like to donate you can do so [here](https://ko-fi.com/campbellfabrications)
+
+
+Below is his prior Readme.md file, please read the documentation.
+
 
 # K2 Improvements
 
@@ -27,7 +35,7 @@ As a _heads up_ these improvements are not compatible with Creality's _auto-cali
 
 ## Start Here at Bootstrap
 
-The Bootstrap is a requirement for the improvements to install properly, so this must be accomplished first. Of note, it will install entware tools necessary to accomplish the installs. Additionally, root is enabled by default with the password: 'creality_2024'. At some point, we recommend running command 'passwd' in the terminal to change the defualt password to something secure.
+The Bootstrap is a requirement for the improvements to install properly, so this must be accomplished first. Of note, it will install entware tools necessary to accomplish the installs. Additionally, root is enabled by default with the password: 'creality_2024'. At some point, we recommend running command 'passwd' in the terminal to change the default password to something secure.
 
 It is recommend to perform a factory reset prior to install to avoid potential conflicts with previous modifications.  A factory reset can be achieved with the following command in a terminal on the K2:
 
