@@ -97,6 +97,7 @@ Sadly, many of the K2 beds resemble a taco or valley.  In the [bed_leveling](bed
 
 ## Credits
 
+* [@jamincollins](https://github.com/jamincollins) - The Guy who made this project to begin with
 * [@Guilouz](https://github.com/Guilouz) - standing on the shoulders of giants
 * [@stranula](https://github.com/stranula)
 * [@juliosueiras](https://github.com/juliosueiras)
