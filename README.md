@@ -64,6 +64,10 @@ Donations are definitely _not required_, however they are always appreciated.  I
 
 
 # Latest Added Features:
+
+## Resonance Tester
+Added the Resonance Tester code from Jacobean. Here's it's [Readme](https://github.com/campbellfabrications/k2-improvements/blob/main/features/resonance-tester/README.md) file.
+
 ## Webcam-FPS 17-10-25
 The stock chamber camera is set to 15fps. `v4l2-ctl --list-formats-ext -d /dev/v4l/by-id/main-video0` reports 30fps as available. Lets get that framerate.
 
