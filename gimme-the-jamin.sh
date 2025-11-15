@@ -18,6 +18,8 @@ install_feature moonraker
 install_feature fluidd
 install_feature screws_tilt_adjust
 install_feature cartographer
+#install_feature kamp # this isnt ready to be run, most of the features are superfluous and the general skirt works as an adaptive purge
+# Worst case if you want to run it, you can. Use at your own risk.
 mkdir -p /tmp/macros
 install_feature macros/bed_mesh
 install_feature macros/m191
