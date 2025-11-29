@@ -58,6 +58,8 @@ They both install the same set of features (those that I use).  The only differe
 
 You are still welcome to hand pick which features you want to install.
 
+To do so, run `opkg install nano` and then `nano /mnt/UDISK/root/k2-improvements/no-carto.sh`. This will open the file no-carto.sh to editing within your chosen SSH tool. You can then add `install_feature name-of-the-folder`, you can find the name in the features folder. 
+
 ## Donations
 
 Donations are definitely _not required_, however they are always appreciated.  If you'd like to donate you can do so [here](https://ko-fi.com/campbellfabrications)
