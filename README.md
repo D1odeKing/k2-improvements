@@ -40,7 +40,7 @@ sh /mnt/UDISK/printer_data/config/bootstrap/bootstrap.sh
 
 ## Installers
 
-A unified installation menu is planned to simplify the setup process. For now, each feature can be found under the [features](./features/) directory, where a `README.md` and installation script (`install.sh`) are provided for each feature.
+A unified installation menu is planned to simplify the setup process. The unified installer will understand inter option dependencies and ensure they are met. For now, each feature can be found under the [features](./features/) directory, where a `README.md` and installation script (`install.sh`) are provided for each feature.
 
 For now, there are two default installation options:
 
