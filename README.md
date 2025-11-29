@@ -44,6 +44,9 @@ A unified installation menu is planned to simplify the setup process. For now, e
 
 For now, there are two default installation options:
 
+> **Important Note:**  
+> Either installation option will take some time and may appear to hang at times. Be patient, as the process is moving lots of files and creating virtual environments for klipper and moonraker full installs.  
+> **Do not interrupt the installation process unless you are certain it has failed.**
 * **Option 1: `gimme-the-jamin.sh`** - Installs Cartographer. **NOTE:** You must have the Cartographer flashed, plugged in, and ready to go by following the instructions [here](https://github.com/campbellfabrications/k2-improvements/blob/main/features/cartographer/SETUP.md). To run this option, use the terminal command:
 ```bash
 sh /mnt/UDISK/root/k2-improvements/gimme-the-jamin.sh
