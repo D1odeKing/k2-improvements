@@ -89,12 +89,12 @@ Added `--prefer-binary` to `features/moonraker.sh`.
 - [axis_twist_compensation](./features/axis_twist_compensation/README.md)
 - [better init](./features/better-init/README.md)
 - [better root](./features/better-root/README.md) home directory
-- [Cartographer](./features/cartographer/README.md) support
-- Installs [Entware](https://github.com/Entware/Entware)
-- Updated [Fluidd](./features/fluidd/README.md)
-- Updated [Moonraker](./features/moonraker/README.md)
-- [Obico](./features/obico/README.md) - _WIP_
-- Implements [SCREWS_TILT_CALCULATE](https://www.klipper3d.org/Manual_Level.html#adjusting-bed-leveling-screws-using-the-bed-probe)
+- [cartographer](./features/cartographer/README.md) support
+- [entware](https://github.com/Entware/Entware)
+- [fluidd](./features/fluidd/README.md)
+- [moonraker](./features/moonraker/README.md)
+- [obico](./features/obico/README.md) - _WIP_
+- [screws_tilt_calculate](https://www.klipper3d.org/Manual_Level.html#adjusting-bed-leveling-screws-using-the-bed-probe)
 
 And some quality-of-life improvement macros:
 
