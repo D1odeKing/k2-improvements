@@ -104,7 +104,7 @@ And some quality-of-life improvement macros:
 
 ## Bed Leveling
 
-Many K2 beds may experience unevenness resembling a "taco" or valley. The `bed_leveling` directory includes a Python script and instructions for shimming the bed with aluminum tape.
+Many K2 beds may experience unevenness resembling a "taco" or valley. The [bed_leveling](./bed_leveling/) directory includes a Python script and instructions for shimming the bed with aluminum tape.
 
 ## Credits
 
