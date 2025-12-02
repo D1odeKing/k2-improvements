@@ -7,7 +7,7 @@ In the `features` folder, you will find install scripts for each of the features
 
 ## Community
 
-Join the discussion and get support [on our Discord server](https://discord.gg/bJDGhzZA).
+Join the discussion and get support [on our Discord server](https://discord.gg/MYn8x2thKK).
 
 ## DISCLAIMER
 
