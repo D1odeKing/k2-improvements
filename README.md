@@ -5,10 +5,6 @@ I will update this repository with reproducible bug reports and aim to adapt the
 
 In the `features` folder, you will find install scripts for each of the features being installed, which can also be run separately if desired. For more details on what each script does, explore the `install.sh` files to directly review the code. 
 
-## Community
-
-Join the discussion and get support [on our Discord server](https://discord.gg/MYn8x2thKK).
-
 ## DISCLAIMER
 
 Use at your own risk. Note that the maintainer assumes no responsibility for damages or issues. However, you will keep both halves if something breaks.
